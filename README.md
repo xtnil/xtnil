@@ -6,11 +6,15 @@
 
 - 🔭 I’m currently working on C# **Banking Management System**
 
+- This is my 2nd Github Account 1st Account Deleted due to some issues.
+
 - 🌱 I’m currently learning **.NET**
 
 - 🤝 I’m looking for help with **React**
 
 - 💬 Ask me about **Python,Django**
+
+- I'm Also A 10/100 Top Google Crowdsource Contributor
 
 - 📫 How to reach me **subhadeepbiswas.cse@gmail.com**
 
