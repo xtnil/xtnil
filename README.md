@@ -1,6 +1,6 @@
  Hi there 👋
- This is my 2nd Github Account 1st Account Deleted due to some issues.
 🔭 I’m currently working on .net project
+- This is my 2nd Github Account 1st Account Deleted due to some issues.
 - 🌱 I’m currently learning .net , C#
 - 🤔 I’m looking for help with web development
 - 📫 How to reach me: [Twitter-@subhadeep0134](https://twitter.com/subhadeep0134) , [Linkdin-@subhadeep0134](https://www.linkedin.com/in/subhadeep0134/)
