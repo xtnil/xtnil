@@ -1,4 +1,5 @@
  Hi there 👋
+ This is my 2nd Github Account 1st Account Deleted due to some issues.
 🔭 I’m currently working on .net project
 - 🌱 I’m currently learning .net , C#
 - 🤔 I’m looking for help with web development
