@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 <p align="left"> <a href="https://twitter.com/subhadeep0134" target="blank"><img src="https://img.shields.io/twitter/follow/subhadeep0134?logo=twitter&style=for-the-badge" alt="subhadeep0134" /></a> </p>
 
-- 🔭 I’m currently working on C# **Banking Management System**
+- 🔭 I’m currently working on Java **Android Dev**
 
 - This is my 2nd Github Account 1st Account Deleted due to some issues.
 
