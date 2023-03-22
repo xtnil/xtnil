@@ -1,6 +1,6 @@
 ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <h1 align="center">Hi 👋, I'm Subhadeep Biswas</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate Full stack developer from Kokata,India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 <p align="left"> <a href="https://twitter.com/subhadeep0134" target="blank"><img src="https://img.shields.io/twitter/follow/subhadeep0134?logo=twitter&style=for-the-badge" alt="subhadeep0134" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xtnil&label=Profile%20views&color=0e75b6&style=flat" alt="xtnil" /> </p>
