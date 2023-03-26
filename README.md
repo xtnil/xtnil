@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Java **Android Dev**
 
-- This is my 2nd Github Account 1st Account Deleted due to some issues.
+- This is my 2nd  Github Account 1st Account Deleted due to some issues.
 
 - 🌱 I’m currently learning **.NET**
 
@@ -17,7 +17,7 @@
 
 - I'm Also A 10/100 Top Google Crowdsource Contributor
 
-- 📫 How to reach me **subhadeepbiswas.cse@gmail.com**
+- 📫 How to reach me **subhadeepbiswas.cse@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
