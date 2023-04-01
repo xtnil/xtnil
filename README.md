@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python,Django**
 
-- I'm Also A 10/100 Top Google Crowdsource Contributor
+- I'm Also A 3/100 Top Google Crowdsource Contributor
 
 - 📫 How to reach me **subhadeepbiswas.cse@yahoo.com**
 
