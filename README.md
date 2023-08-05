@@ -10,13 +10,13 @@
 
 - This is my 2nd  Github Account 1st Account Deleted due to some issues.
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning ** SWIFT ios development**
 
 - 🤝 I’m looking for help with **React**
 
-- 💬 Ask me about **Python,Django**
+- 💬 Ask me about **Python,Django,java**
 
-- I'm Also A 3/100 Top Google Crowdsource Contributor
+- I'm Also A 2/100 Top Google Crowdsource Contributor
 
 - 📫 How to reach me **subhadeepbiswas.cse@yahoo.com**
 
