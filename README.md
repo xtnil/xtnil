@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/subhadeep0134" target="blank"><img src="https://img.shields.io/twitter/follow/subhadeep0134?logo=twitter&style=for-the-badge" alt="subhadeep0134" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xtnil&label=Profile%20views&color=0e75b6&style=flat" alt="xtnil" /> </p>
   
-- 🔭 I’m currently working on Java **Android Dev**
+- 🔭 I’m currently working on **SWIFT**
 
 - This is my 2nd  Github Account 1st Account Deleted due to some issues.
 
@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 💬 Ask me about **Python,Django,java**
+- 💬 Ask me about **Python,Django,java ,Android Dev*
 
 - I'm Also A 2/100 Top Google Crowdsource Contributor
 
